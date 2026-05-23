@@ -1,4 +1,4 @@
-# Hi 👋, I'm  Humayra
+# Hi 👋, I'm  Humayra..
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Humayrahumo&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" /> 
