@@ -22,7 +22,9 @@ Focused on Python, Neural Networks, and Computer Vision architectures.
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 </p>
 
-### 📊 GitHub Coding Stats:
+### 📊 GitHub Coding Stats:### 📊 GitHub Coding Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Humayrahumo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Humayrahumo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+
