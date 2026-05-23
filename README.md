@@ -1,7 +1,5 @@
-# Ayesha Salekin Humayra
+# Hi 👋, I'm Humayra
 ### Data Science Student & Explorer 📊
-
-Welcome to my data space! I love uncovering stories hidden within datasets, building predictive models, and working with computer vision.
 
 ---
 
@@ -9,10 +7,7 @@ Welcome to my data space! I love uncovering stories hidden within datasets, buil
 * **Languages:** Python (OOP, NumPy, Pandas, Matplotlib)
 * **Core Focus:** Data Analytics, Machine Learning, Computer Vision
 * **Current Project:** `byakugan-vision` (Vehicle Damage Detection using Neural Networks)
-
----
-
-📬 **How to reach me:** [Your Email or LinkedIn Link]
+*
 
 
 <p align="left"> 
