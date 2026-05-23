@@ -1,7 +1,19 @@
-<h1 align="center">👋 Welcome to Humayra's Data Space! </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Ayesha+Salekin+Humayra;Data+Science+Student;Turning+Data+into+Insights" alt="Typing SVG" />
-</p>
+# Ayesha Salekin Humayra
+### Data Science Student & Explorer 📊
+
+Welcome to my data space! I love uncovering stories hidden within datasets, building predictive models, and working with computer vision.
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python (OOP, NumPy, Pandas, Matplotlib)
+* **Core Focus:** Data Analytics, Machine Learning, Computer Vision
+* **Current Project:** `byakugan-vision` (Vehicle Damage Detection using Neural Networks)
+
+---
+
+📬 **How to reach me:** [Your Email or LinkedIn Link]
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Humayrahumo&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" /> 
