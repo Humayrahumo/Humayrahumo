@@ -4,10 +4,10 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python (OOP, NumPy, Pandas, Matplotlib)
+* **Languages:** Python (OOP, NumPy, Pandas, Matplotlib),Microsoft Excel Data Analysis
 * **Core Focus:** Data Analytics, Machine Learning, Computer Vision
 * **Current Project:** `byakugan-vision` (Vehicle Damage Detection using Neural Networks)
-*
+
 
 
 <p align="left"> 
